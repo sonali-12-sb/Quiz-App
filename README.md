@@ -36,19 +36,14 @@ Upon clicking the **"Submit"** button:
 ✔ A **toast message** appears to notify the user of their score.  
 
 ### 🖼️ **Screenshots**  
-| App Screens 1 | App Screens 2 |
-|--------------|--------------|
-| <img src="IMG_20250331_192830.jpg" width="300"> | <img src="IMG_20250331_192848" width="300"> |
-| App Screens 3 | App Screens 4 |
-|--------------|--------------|
-| <img src="IMG_20250331_192905" width="300"> | <img src="IMG_20250331_193036" width="300"> |
+
+<img src="IMG_20250331_192830.jpg" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="IMG_20250331_192848.jpg" width="300"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="IMG_20250331_192905.jpg" width="300"> &nbsp;&nbsp; <img src="IMG_20250331_193036.jpg" width="300"> 
 
 ---
 
 ## ⭐ Review from Udacity  
-| Review Screenshot |
-|------------------|
-| <img src="quiz_portal_review" width="800"> |
-| <img src="quizAppEmailReview" width="300"> |
+
+<img src="quiz_portal_review.png" width="700"> 
+<img src="quizAppEmailReview.jpg" width="300"> 
 
 ---
