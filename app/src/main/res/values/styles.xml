@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Question Textview Style -->
+    <style name="QuestionTextviewStyle">
+        <item name="android:padding">5dp</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+
+    <!-- style for CheckBox -->
+    <style name="CheckBoxStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingLeft">13dp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- style for linear layouts -->
+    <style name="LinearLayoutStyle">
+        <item name="android:padding">10dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- style for image view -->
+    <style name="ImageViewStyle">
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:layout_marginTop">7dp</item>
+        <item name="android:layout_marginBottom">2dp</item>
+    </style>
+
+    <!-- Style for Radio Button -->
+    <style name="RadioButtonStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_marginEnd">6dp</item>
+    </style>
+
+    <!-- style for Button -->
+    <style name="ButtonStyle">
+        <item name="android:layout_marginTop">18dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <!-- style for summary textview -->
+    <style name="SummaryTextViewStyle">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- style for result textview -->
+    <style name="ResultTextViewStyle">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

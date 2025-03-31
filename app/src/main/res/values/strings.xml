@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="question_1">1. Guess the songs sung by Arijit Singh.</string>
+    <string name="sun_raha_hai_na_tu">Sun Raha hai na Tu</string>
+    <string name="dil_sambhal_ja_jara">Dil Sambhal ja jara</string>
+    <string name="pani_da_rang">Pani Da Rang</string>
+    <string name="tu_hai_ki_nahi">Tu hai ki Nahi</string>
+
+    <string name="question_2">2. Guess the name of Artist in the picture.</string>
+    <string name="justin_biber">Justin Biber</string>
+    <string name="bts">BTS</string>
+    <string name="taylor">Taylor Swift</string>
+
+    <string name="question_3">3. When India Celebrates its Independance day?</string>
+
+    <string name="question_4">4. Guess the Movies done by the below actress. </string>
+    <string name="aashiqui_2">Aashiqui 2</string>
+    <string name="idiots_3">3 Idiots</string>
+    <string name="bahubali">Bahubali</string>
+
+    <string name="question_5">5. When India Celebrates its Republic day?</string>
+    <string name="date">Enter the Date</string>
+
+    <string name="question_6">6. Select the continents below.</string>
+    <string name="asia">Asia</string>
+    <string name="india">India</string>
+    <string name="australia">Australia</string>
+    <string name="maharashtra">Maharashtra</string>
+
+    <string name="question_7">7. On which day Christmas is celebrated?</string>
+
+    <string name="question_8">8. How many wonders are there in the World?</string>
+    <string name="three">3</string>
+    <string name="seven">7</string>
+    <string name="tweleve">12</string>
+
+    <string name="submit">Submit</string>
+    <string name="results">Result</string>
+    <string name="summary"></string>
+
+</resources>
