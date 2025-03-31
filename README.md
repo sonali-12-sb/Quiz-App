@@ -38,13 +38,17 @@ Upon clicking the **"Submit"** button:
 ### 🖼️ **Screenshots**  
 | App Screens 1 | App Screens 2 |
 |--------------|--------------|
-| <img src="Screens/screenshot1.jpg" width="300"> | <img src="Screens/screenshot2.jpg" width="300"> |
+| <img src="IMG_20250331_192830.jpg" width="300"> | <img src="IMG_20250331_192848" width="300"> |
+| App Screens 3 | App Screens 4 |
+|--------------|--------------|
+| <img src="IMG_20250331_192905" width="300"> | <img src="IMG_20250331_193036" width="300"> |
 
 ---
 
 ## ⭐ Review from Udacity  
 | Review Screenshot |
 |------------------|
-| <img src="Review/review.jpg" width="400"> |
+| <img src="quiz_portal_review" width="800"> |
+| <img src="quizAppEmailReview" width="300"> |
 
 ---
