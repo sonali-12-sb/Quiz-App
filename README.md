@@ -44,6 +44,6 @@ Upon clicking the **"Submit"** button:
 ## ⭐ Review from Udacity  
 
 <img src="quiz_portal_review.png" width="700"> 
-<img src="quizAppEmailReview.jpg" width="300"> 
+<img src="quizAppEmailReview.jpg" width="200"> 
 
 ---
